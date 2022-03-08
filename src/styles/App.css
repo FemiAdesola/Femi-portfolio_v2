@@ -153,7 +153,7 @@ text-align: center;
 
 
 .homeBackGround{
-  min-height: calc(100vh - 600px);
+  min-height: calc(100vh - 800px);
 }
 .active:hover{
   color: var(--black) !important;
