@@ -7,6 +7,7 @@ import ScrollButton from "./ScrollButton"
 const Layout = () => {
     return (
         <div>
+             
             <Header/>
             <main>
             <Outlet/>
