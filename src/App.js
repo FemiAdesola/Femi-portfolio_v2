@@ -17,7 +17,7 @@ import ContactMe from "./components/ContactMe";
 const Home = () => {
   return (<div className="homeBackGround">
       <div className="hero d-flex justify-content-center align-items-center">
-         <h1 className="home"></h1>
+        
       </div>
       </div>
   );
