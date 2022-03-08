@@ -1,0 +1,130 @@
+
+/* --------- skills ------------------------*/
+body .my_skills{
+  background-color: var(--white-1);
+}
+.my_skills{
+    padding:100px 0;
+}
+.boxes{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.box:nth-child(even) {
+    background-color: var(--bg-color-4);
+}
+
+.box {
+    padding: 1rem;
+    text-align: center;
+    background-color: var(--bg-color-5);
+    margin: 0.8rem;
+    display: inline-block;
+    box-shadow: 0 0 5px #000000;
+    justify-items: center;
+    align-items: center;
+    transition: all 0.3s;
+    width: 200px;
+    border-radius: 5px;
+}
+
+.box:hover{
+  background-color: var(--color-1);
+  transform: scale(1.1);
+  transition: 1s;
+  
+
+}
+.fas, .fab {
+  margin: 25px;
+  width: 100px;
+  
+}
+progress[value] {
+  height: 1rem;
+  -webkit-appearance: none;
+  appearance: none;
+  background: transparent;
+}
+
+progress[value]::-webkit-progress-bar {
+  border-radius: 20px;
+}
+
+progress[value]::-webkit-progress-value {
+  border-radius: 20px;
+  background-size: 35px 20px, 100% 100%, 100% 100%;
+}
+
+.box5 i{
+    background-color: var(--yellow-4);
+    padding: 5px;
+    border-radius: 5px;
+}
+
+.box4 i, .box7 i{
+    background-color: var(--rd-2);
+    padding: 5px;
+    border-radius: 5px;
+    color: var(--white);
+}
+.box3 i{
+    background-color: var(--neutral-4);
+    padding: 5px;
+    font-size: 20px;
+    border-radius: 5px;
+    color: var(--white);
+}
+.box6 i{
+  background-color: var(--gr-4);
+  padding: 5px;
+  font-size: 30px;
+  border-radius: 5px;
+  color: var(--white);
+}
+.box7 h4{
+  color: var(--black);
+}
+.box8 i{
+  background-color: var(--black);
+  padding: 5px 2px;
+  font-size: 20px;
+  border-radius: 5px;
+  color: var( --neutral-1);
+}
+
+.box8 .react{
+  color: var(--white);
+}
+
+.box9 img{
+  padding: 15px;
+}
+.box10 i{
+  font-size: 40px;
+  color: var(--ancient-4);
+}
+.box11 i{
+  font-size: 40px;
+  color: var(--yellow-4);
+}
+.box12 i, .box13 i, .box14 i, .box16 i{
+  font-size: 40px;
+  color: var(--ancient-5);
+}
+.box15 i{
+  font-size: 40px;
+  color: var(--ancient-4);
+}
+
+.box17 i{
+  font-size: 50px;
+  width: 70px;
+  height: 70px;
+  padding: 10px;
+  background-color: var(--rd-2);
+  border-radius: 50%;
+  color: var(--black);
+}

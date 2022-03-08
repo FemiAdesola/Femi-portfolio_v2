@@ -1,0 +1,21 @@
+.about_me {
+    background-color:var(--bg-color-3) ;
+    line-height: 1.6rem;
+    font-size: 1rem;
+}
+
+.about_me img{
+    float: right;
+    margin-left: 2rem;
+    width: 300px;
+    height: 150px;
+}
+
+.about_me h3{
+    margin-top: 0;
+    padding: 20px;
+}
+.about_me p{
+    margin-bottom: 0;
+    padding-bottom: 40px;
+}
