@@ -180,7 +180,17 @@ const Projects = () => {
                         </div>
 
 
-                       
+                        <div className="card card14">
+                            <img src={require("../img_project/SignUp.png")} alt="todoApp"/>
+                            <h4> Authentication App (Built with React, React content management, HTMl/CSS, firebase as backend)</h4>
+                            <p>
+                            This is an authentication app built with react context management with firebase for deployment. Users can signup with their name, email, password and get access to enter data. Each user has their login page, where the user cannot see what is going on on another user's page {" "}
+                            <a href="https://npscore-72b0f.web.app/login" target="_blank" rel="noopener noreferrer">Click to see more</a>
+                            </p>
+                           
+                            <a href="https://github.com/React21S/Authentication"  target="_blank" rel="noreferrer" className="github">Check <i className="fab fa-github fa-2x"></i>
+                            </a>
+                        </div>
 
                     </div>
                 </div>

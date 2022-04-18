@@ -10,32 +10,32 @@ const Skills = () => {
                             <div class="box">
                                 <h4>Mechanical Designer</h4>
                                 <span> <i className="fas fa-cogs"></i> </span>
-                                <progress id="file1" value="70" max="100"></progress>
+                                <progress id="file1" value="80" max="100"></progress>
                             </div>
                             <div class="box">
                                 <h4>Lab Technician</h4>
                                 <span> <i class="fas fa-microscope"></i> </span>
-                                <progress id="file2" value="75" max="100"></progress>
+                                <progress id="file2" value="90" max="100"></progress>
                                </div>
                             <div className="box box3">
                                 <h4>CSS</h4>
                                 <span><i className="fab fa-css3-alt"> CSS </i></span>
-                                <progress id="file3" value="60" max="100"></progress>
+                                <progress id="file3" value="80" max="100"></progress>
                                 </div>
                             <div className="box box4">
                                 <h4>HTML5</h4>
                                 <span><i className="fab fa-html5"> HTML5</i></span>
-                                <progress id="file4" value="70" max="100"></progress>
+                                <progress id="file4" value="80" max="100"></progress>
                             </div>
                             <div className="box box5">
                                 <h4>Javascript</h4>
                                 <span><i className="fab fa-js-square"> Javascript</i></span>
-                                <progress id="file5" value="55" max="100"></progress>
+                                <progress id="file5" value="65" max="100"></progress>
                             </div>
                             <div className="box box6">
                                 <h4>NodeJS</h4>
                                 <span><i className="fab fa-node"></i></span>
-                                <progress id="file6" value="50" max="100"></progress>
+                                <progress id="file6" value="55" max="100"></progress>
                             </div>
                             <a href="https://openbadgepassport.com/app/badge/info/406063" rel="noreferrer" target="_blank">
                             <div className="box box7">
@@ -87,9 +87,9 @@ const Skills = () => {
                                 <progress id="file10" value="70" max="100"></progress>
                             </div> 
                             <div className="box box16">
-                                <h4>Node JS</h4>
-                                <span><i className="fab fa-node"></i></span>
-                                <progress id="file10" value="60" max="100"></progress>
+                                <h4>Plotly</h4>
+                                <span><i class="fas fa-chart-line"></i></span>
+                                <progress id="file10" value="80" max="100"></progress>
                             </div> 
                             <div className="box box17">
                                 <h4>Jenkins</h4>

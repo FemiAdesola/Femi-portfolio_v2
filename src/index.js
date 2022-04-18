@@ -5,7 +5,7 @@ import "./styles/App.css";
 import "./styles/ContactMe.css";
 import "./styles/Footer.css";
 import "./styles/Header.css";
-import "./styles/Media.css";
+// import "./styles/Media.css";
 import "./styles/Projects.css";
 import "./styles/Skills.css";
 import "./styles/ScrollButton.css";

@@ -23,7 +23,7 @@
     justify-items: center;
     align-items: center;
     transition: all 0.3s;
-    width: 300px;
+    width: 350px;
     border-radius: 5px;
 }
   
@@ -40,9 +40,16 @@
     border-radius: 5px 5px 0 0;
 }
 
-.card h4, .card p{
+.card h4{
  margin: 10px 20px;
- font-size: 0.8rem;
+ font-size: 1.5rem;
+ border-bottom: #000000 solid;
+ border-top: #000000 solid;
+}
+
+.card p{
+    margin: 10px 20px;
+    font-size: 1.2rem;
 }
 
 .card .github{
