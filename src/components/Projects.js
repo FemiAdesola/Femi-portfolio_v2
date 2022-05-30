@@ -204,6 +204,18 @@ const Projects = () => {
                             </a>
                         </div>
 
+                        <div className="card card15">
+                            <img src={require("../img_project/NPS.png")} alt="NPS SCore"/>
+                            <h4> Net Promoter Score (Built HTML, CSS, Javascript, React, Redux, MySQL, Node.js. Material UI [MUI])</h4>
+                            <p>
+                            Net Promoter Score (NPS) is an application used by many organizations or companies to evaluate the feedback on how well their services or products are with their customers. This project was done by a team of five people as a final software development project at The Business college Helsinki in collaboration with PHZ.fi. {" "}
+                            <a href="https://github.com/Termanty/PS-Dashboard" target="_blank" rel="noopener noreferrer">Click to see more</a>
+                            </p>
+                           
+                            <a href="https://github.com/Termanty/PS-Dashboard"  target="_blank" rel="noreferrer" className="github">Check <i className="fab fa-github fa-2x"></i>
+                            </a>
+                        </div>
+
                     </div>
                 </div>
         </div>
