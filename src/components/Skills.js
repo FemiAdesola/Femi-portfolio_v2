@@ -96,6 +96,12 @@ const Skills = () => {
                                 <span><i className="fab fa-jenkins"></i></span>
                                 <progress id="file10" value="60" max="100"></progress>
                             </div> 
+
+                            <div className="box box18">
+                                <h4>Figma</h4>
+                                <span><img src="https://img.icons8.com/color/50/000000/figma.png" alt="Figma"/></span>
+                                <progress id="file9" value="80" max="100"></progress>
+                            </div>
                         </div>
                         
                 </div>

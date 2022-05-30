@@ -181,7 +181,7 @@ const Projects = () => {
 
 
                         <div className="card card14">
-                            <img src={require("../img_project/SignUp.png")} alt="todoApp"/>
+                            <img src={require("../img_project/SignUp.png")} alt="authentication"/>
                             <h4> Authentication App (Built with React, React content management, HTMl/CSS, firebase as backend)</h4>
                             <p>
                             This is an authentication app built with react context management with firebase for deployment. Users can signup with their name, email, password and get access to enter data. Each user has their login page, where the user cannot see what is going on on another user's page {" "}
@@ -189,6 +189,18 @@ const Projects = () => {
                             </p>
                            
                             <a href="https://github.com/React21S/Authentication"  target="_blank" rel="noreferrer" className="github">Check <i className="fab fa-github fa-2x"></i>
+                            </a>
+                        </div>
+
+                        <div className="card card15">
+                            <img src={require("../img_project/ProjectTool.png")} alt="project management app"/>
+                            <h4> Project management App (Built with React, React content management, HTMl/CSS, firebase as backend and Material UI [MUI])</h4>
+                            <p>
+                            This is a project management app that can use to assign a project within a team or an office. The users can signup or login to view the project assigned to them, create a project, assign people to the project, and enter the due date for each project. {" "}
+                            <a href="https://chartapp-e2f1a.web.app/" target="_blank" rel="noopener noreferrer">Click to see more</a>
+                            </p>
+                           
+                            <a href="https://github.com/FemiAdesola/Project_management_App"  target="_blank" rel="noreferrer" className="github">Check <i className="fab fa-github fa-2x"></i>
                             </a>
                         </div>
 
