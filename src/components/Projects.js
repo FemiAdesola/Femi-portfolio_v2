@@ -226,6 +226,17 @@ const Projects = () => {
                             <a href="https://github.com/FemiAdesola/kiva"  target="_blank" rel="noreferrer" className="github">Check <i className="fab fa-github fa-2x"></i>
                             </a>
                         </div>
+                        <div className="card card17">
+                            <img src={require("../img_project/KivaCountDown.png")} alt="KivaCountDown.png"/>
+                            <h4> Coming soon website (Built with HTML, CSS, Javascript, React, Redux, Material UI [MUI])</h4>
+                            <p>
+                           This is a website designed purposely for counting down an event, and when the event is expired, it displays a content box written the event has passed. {" "}
+                            <a href="https://kiva-project-f1a64.web.app/" target="_blank" rel="noopener noreferrer">Click to see more</a>
+                            </p>
+                           
+                            <a href="https://github.com/FemiAdesola/kivavirta"  target="_blank" rel="noreferrer" className="github">Check <i className="fab fa-github fa-2x"></i>
+                            </a>
+                        </div>
 
                     </div>
                 </div>
