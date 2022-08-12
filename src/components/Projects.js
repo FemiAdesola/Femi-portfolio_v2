@@ -220,7 +220,7 @@ const Projects = () => {
                             <h4> Coming soon website (Built with HTML, CSS, Javascript, React, Redux, Material UI [MUI])</h4>
                             <p>
                             This is a hand play website designed for a coming soon of a company before switching to another program. {" "}
-                            <a href="https://kiva-coming-soon.web.app/" target="_blank" rel="noopener noreferrer">Click to see more</a>
+                            <a href="https://github.com/FemiAdesola/kiva" target="_blank" rel="noopener noreferrer">Click to see more</a>
                             </p>
                            
                             <a href="https://github.com/FemiAdesola/kiva"  target="_blank" rel="noreferrer" className="github">Check <i className="fab fa-github fa-2x"></i>
