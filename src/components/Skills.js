@@ -101,7 +101,17 @@ const Skills = () => {
                                 <h4>Figma</h4>
                                 <span><img src="https://img.icons8.com/color/50/000000/figma.png" alt="Figma"/></span>
                                 <progress id="file9" value="80" max="100"></progress>
+                        </div>
+                        <div className="box box18">
+                                <h4>MongoDB</h4>
+                                <span><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="Figma"/></span>
+                                <progress id="file9" value="60" max="100"></progress>
                             </div>
+                        <div className="box box18">
+                                <h4>MySQL</h4>
+                                <span><img src="https://img.shields.io/badge/Mysql-10263E?style=for-the-badge&logo=mysql&logoColor=E7A982"  alt="Figma"/></span>
+                                <progress id="file9" value="60" max="100"></progress>
+                        </div>
                         </div>
                         
                 </div>

@@ -236,6 +236,17 @@ const Projects = () => {
                            
                             <a href="https://github.com/FemiAdesola/kivavirta"  target="_blank" rel="noreferrer" className="github">Check <i className="fab fa-github fa-2x"></i>
                             </a>
+                    </div>
+                    <div className="card card18">
+                            <img src={require("../img_project/ShoppingApp.png")} alt="ShoppingApp.png"/>
+                            <h4> ECommerce website (Built with expressJS, nodeJS, mongoDB, mongoose, bcryptjs, stripe, pdfkit, Morgan, CSS, Javascript)</h4>
+                            <p>
+                           This app is a shopping app built with nodejs and expressJS with ejs as middleware, and the MongoDB database was used as a database for storing the data. Also, in this shopping app, the signup user can add a product or update a product, but it can't update, edit or delete the product that another user added to the product list. {" "}
+                            <a href="https://femi-shopping-app.herokuapp.com/" target="_blank" rel="noopener noreferrer">Click to see more</a>
+                            </p>
+                           
+                            <a href="https://github.com/FemiAdesola/shopMongosePayment"  target="_blank" rel="noreferrer" className="github">Check <i className="fab fa-github fa-2x"></i>
+                            </a>
                         </div>
 
                     </div>
@@ -243,5 +254,4 @@ const Projects = () => {
         </div>
     );
 };
-
 export default Projects;
