@@ -247,8 +247,18 @@ const Projects = () => {
                            
                             <a href="https://github.com/FemiAdesola/shopMongosePayment"  target="_blank" rel="noreferrer" className="github">Check <i className="fab fa-github fa-2x"></i>
                             </a>
-                        </div>
-
+                    </div>
+                    <div className="card card18">
+                        <img src={require("../img_project/Todo.png")} alt="Todo.png"/>
+                        <h4> Todo App (Built with expressJS, nodeJS, mongoDB, CSS, React hooks)</h4>
+                        <p>
+                        This app is a todo app built with nodejs and expressJS for backend, MongoDB database was used as a database for storing the data and reactJS was used for frontend. {" "}
+                        <a href="https://femi-todo-frontend.netlify.app/" target="_blank" rel="noopener noreferrer">Click to see more</a>
+                        </p>
+                           
+                        <a href="https://github.com/FemiAdesola/TodoWithNode"  target="_blank" rel="noreferrer" className="github">Check <i className="fab fa-github fa-2x"></i>
+                        </a>
+                    </div>
                     </div>
                 </div>
         </div>
