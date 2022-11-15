@@ -5,7 +5,19 @@ const Projects = () => {
         <div className="projects">
             <div className="container">
                     <h3>Projects</h3>
-                    <div className="cards">
+                <div className="cards">
+                    
+                    <div className="card card19">
+                        <img src={require("../img_project/FoodApp.png")} alt="FoodApp.png"/>
+                        <h4> Food App (Built with C#, .Net, Docker, Azure SQL server, CSS)</h4>
+                        <p>
+                        This app is a Food app where user can order their food or choose their desired food, and it was built with C#, .Net, and Azure SQL server. {" "}
+                        <a href="https://femi-foodapp.herokuapp.com/" target="_blank" rel="noopener noreferrer">Click to see more</a>
+                        </p>
+                           
+                        <a href="https://github.com/FemiAdesola/FoodApp"  target="_blank" rel="noreferrer" className="github">Check <i className="fab fa-github fa-2x"></i>
+                        </a>
+                    </div>
                         <div class="card card1">
                             <img src="https://source.unsplash.com/RjewO7Oqcv8" alt=" My Projects"/>
                             <h4>MPT, Buffer behavior testing, KBH-3H</h4>

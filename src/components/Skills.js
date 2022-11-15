@@ -24,8 +24,18 @@ const Skills = () => {
                                 </div>
                             <div className="box box4">
                                 <h4>HTML5</h4>
-                                <span><i className="fab fa-html5"> HTML5</i></span>
+                                <span><i className="fa fa-html5"> HTML5</i></span>
                                 <progress id="file4" value="80" max="100"></progress>
+                            </div>
+                            <div className="box box5">
+                                <h4>C#</h4>
+                                <span><i className="fab fa-csharp"> C#</i></span>
+                                <progress id="file5" value="45" max="100"></progress>
+                            </div>
+                            <div className="box box3">
+                                <h4>.Net</h4>
+                                <span><i className="fab fab-Net">.Net</i></span>
+                                <progress id="file5" value="45" max="100"></progress>
                             </div>
                             <div className="box box5">
                                 <h4>Javascript</h4>
