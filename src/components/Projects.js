@@ -6,6 +6,18 @@ const Projects = () => {
             <div className="container">
                     <h3>Projects</h3>
                 <div className="cards">
+                    <div className="card card19">
+                        <img src={require("../img_project/Product.png")} alt="Product.png"/>
+                        <h4> eCommerce (Built with MUI, TypeScript, Redux, React hook userform, redux-persist)</h4>
+                        <p>
+                       This is an eCommerce app where users can order products through an online service.
+                    The users can filter the product based on the available category of product, sort by highest and lowest price, name of the product . {" "}
+                        <a href="https://femi-frontend.netlify.app/" target="_blank" rel="noopener noreferrer">Click to see more</a>
+                        </p>
+                           
+                        <a href="https://github.com/FemiAdesola/frontend-project"  target="_blank" rel="noreferrer" className="github">Check <i className="fab fa-github fa-2x"></i>
+                        </a>
+                    </div>
                     
                     <div className="card card19">
                         <img src={require("../img_project/FoodApp.png")} alt="FoodApp.png"/>
@@ -18,6 +30,18 @@ const Projects = () => {
                         <a href="https://github.com/FemiAdesola/FoodApp"  target="_blank" rel="noreferrer" className="github">Check <i className="fab fa-github fa-2x"></i>
                         </a>
                     </div>
+                    <div class="card card19">
+                            <img src={require("../img_project/BudgetApp.png")}  alt="BudgetApp"/>
+                            <h4> Budget App (Built with Rect hook, SCSS/SASS for styling, TypeScript)</h4>
+                            <p>
+                                This budget application aims to help users create and manage their income and expenses and to set their saving target from their current balance to their saving account and vice versa.{" "}
+                                <a href="https://femi-budget-app.netlify.app" target="_blank" rel="noopener noreferrer">See more</a>     
+                        </p>
+                        <a href="https://github.com/FemiAdesola/React-budget"  target="_blank" rel="noreferrer" className="github">Check <i className="fab fa-github fa-2x"></i>
+                        </a>
+                        
+                            
+                        </div>
                         <div class="card card1">
                             <img src="https://source.unsplash.com/RjewO7Oqcv8" alt=" My Projects"/>
                             <h4>MPT, Buffer behavior testing, KBH-3H</h4>

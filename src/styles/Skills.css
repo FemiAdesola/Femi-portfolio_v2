@@ -5,6 +5,7 @@ body .my_skills{
 }
 .my_skills{
     padding:100px 0;
+    margin-bottom: -400px;
 }
 .boxes{
   display: flex;
