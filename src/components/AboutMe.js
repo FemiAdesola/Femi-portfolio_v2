@@ -1,23 +1,80 @@
-import React from 'react';
+import React from "react";
 
 const AboutMe = () => {
-    return (
-        <div className="about_me">
-            <div className="container">
-                <h3>About me</h3>
-                <img src={require("../img/about.png")} alt="About me"/>
-                
-                <p>
-                    My name is Femi Adesola Oyinloye, I just completed a Full Stack Web Developer program at Business College Helsinki. I portray the attribute of a person that can work in any environment to contribute an idea, making positive change, co-operate with other people if the situation is necessary or required.  I like to integrate my previous experience and understanding as a Mechanical Designer, IT, and Lab Technician to any task with new approaches. <br/>
-                    In my previous workplaces, my daily routines had been experimental test set-ups, design test equipment, installation and maintenance of test equipment, testing and sensors calibration, sample material installation and sampling, measurement data processing, and reporting. Also, the connection of different kinds of the sensor with the data acquisition system, set up the LabView, and troubleshooting. <br/>
-                    However, I have gained knowledge in Software development Skills (Front-End) [HTML/CSS, Javascript, ReactJS and knowledge in UI/UX], and knowledge in Back-End with NodeJS and Python for data analysis. In addition, I have experience in technical design based on conceptual drawings of test equipment using SolidWorks software.
-                    More also, My studies and work experiences have taught me problem-solving, teamwork skills, and the capability to perform multitasking in a rapid-paced condition. 
-                   I have been regarded several times as a careful and outstanding employee with many gifts-card in my previous jobs. In other words, I am ready to contribute my idea, making positive changes. 
+  return (
+    <div className="about_me">
+      <div className="container">
+        <h3>About me</h3>
+        <img src={require("../img/about.png")} alt="About me" />
 
-                </p>
-            </div>
+        <p>
+          My name is <strong>Femi Adesola Oyinloye</strong>, I am the kind of
+          person who does not shy away from any opportunity to do the right
+          thing, even when doing so is far from easy. My passion also allows me
+          to inspire others in their careers and every area of their lives.{" "}
+          <br />
+          I have worked at A-insinöörit Oy in the Nuclear waste management unit
+          (NWM) and predecessors Saanio & Riekkola Oy and B+Tech Oy in Finland
+          as a Researcher, Designer, and laboratory technician. These enabled me
+          to have skills in project timelines, analytical thinking, designing,
+          planning, and organizing, where I trained them on how to do some
+          installation for about three of their projects.
+          <br />
+          I have written several standard operations procedures and was involved
+          in several reports of projects and technical memos published by Posiva
+          Oy for an Olkiluoto nuclear power plant. My personal goal is
+          continuous learning, which means I am continuously adding to my
+          expertise in technology and developing my programming skills even
+          further. I intend to learn more day by day. <br />
+          Furthermore, the world is focusing more on technology which prompts me
+          to study full-stack development programs and to gain knowledge in
+          Software development skills such as HTML/CSS, Javascript, C#, Asp.Net,
+          UI/UX, ReactJS, Node JS, Express JS, GIT, Unit testing, and Quality
+          assurance, Database: SQL & NoSQL (MySQL, MariaDB, MongoDB,
+          PostgreSQL), CI/CD (Dockers, SonarQube, Jenkins), Project management
+          tool [Trello), AWS (EC 2, CloudFormation, Code Commit, Code Pipeline,
+          Code Deploy, Elastic Beanstalk, and Python programming in data
+          analysis and Principles of Programming Graphical User Interfaces.{" "}
+          <br />
+          Some projects that I performed in my studies can be found on my
+          <a
+            href=" https://github.com/FemiAdesola"
+            target="_blank"
+            rel="noreferrer"
+          >
+            {" "}
+            GitHub 1{" "}
+          </a>
+          and
+          <a
+            href="https://github.com/React21S"
+            target="_blank"
+            rel="noreferrer"
+          >
+            {" "}
+            GitHub 2{" "}
+          </a>
+          , and previous work can be found
+          <a
+            href="https://femiadesola.github.io/coursework/"
+            target="_blank"
+            rel="noreferrer"
+          >
+            {" "}
+            here
+          </a>
+          . <br />
+          In addition, I have been regarded as a careful and excellent employee
+          with many gift cards in my previous jobs. In other words, I am ready
+          to work in your organization to contribute my ideas and make positive
+          changes. By giving me a chance, you will receive a hard-working,
+          industrious, diligent, willing-to-obey instructions and motivated
+          employee who is always cooperative. <br />I hope to meet you soon and
+          I would be pleased to discuss myself at greater length.
+        </p>
+      </div>
     </div>
-    );
+  );
 };
 
 export default AboutMe;
