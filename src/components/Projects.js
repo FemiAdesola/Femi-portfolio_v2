@@ -68,6 +68,39 @@ const Projects = () => {
           </div>
 
           <div className="card card19">
+            <img
+              src={require("../img_project/Fullstack.png")}
+              alt="Product.png"
+            />
+            <h4>
+              {" "}
+              eCommerce (Built with React bootsrap, TypeScript, Redux, React hook userform, RectJS,
+              redux-persist, SASS/SCSS in Frontend and Backend with C#, ASP.NET, PostgreSQL and Entity Framework Core)
+            </h4>
+            <p>
+            This is a full-stack project built with ASP .NET core for the backend and React Redux for the Frontend. For getting the full-stack project done, eCommerce was used as a way to illustrate the connection.
+            This project aims to understand the connection between the backend, database structure, and the frontend.
+             .{" "}
+              <a
+                href="https://fullstackfrontend.netlify.app/"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                Click to see more
+              </a>
+            </p>
+
+            <a
+              href="https://github.com/FemiAdesola/fullstack-"
+              target="_blank"
+              rel="noreferrer"
+              className="github"
+            >
+              Check <i className="fab fa-github fa-2x"></i>
+            </a>
+          </div>
+
+          <div className="card card19">
             <img src={require("../img_project/BuyIt.png")} alt="Product.png" />
             <h4>
               {" "}
