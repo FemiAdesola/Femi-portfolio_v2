@@ -226,7 +226,7 @@ const Projects = () => {
           </div>
           <div class="card card1">
             <img
-              src="https://source.unsplash.com/RjewO7Oqcv8"
+              src={require("../img_project/BTECH.png")}
               alt=" My Projects"
             />
             <h4>MPT, Buffer behavior testing, KBH-3H</h4>
@@ -245,7 +245,7 @@ const Projects = () => {
 
           <div class="card card2">
             <img
-              src="https://source.unsplash.com/EJMTKCZ00I0"
+              src={require("../img_project/Portfolio1.png")}
               alt=" My Projects"
             />
             <h4>HTML, CSS, React, JavaScript</h4>
@@ -264,7 +264,7 @@ const Projects = () => {
 
           <div className="card card3">
             <img
-              src="https://source.unsplash.com/mhUsz2ezlXQ"
+              src={require("../img_project/Fractionation.png")}
               alt=" My Projects"
             />
             <h4> Fractionation processing</h4>
