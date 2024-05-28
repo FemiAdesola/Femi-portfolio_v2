@@ -35,21 +35,17 @@ const Projects = () => {
 
           <div className="card card19">
             <img
-              src={require("../img_project/Product.png")}
-              alt="Product.png"
+              src={require("../img_project/Data_Science.png")}
+              alt="Data_Science.png"
             />
             <h4>
               {" "}
-              eCommerce (Built with MUI, TypeScript, Redux, React hook userform,
-              redux-persist)
+              The libraries used are Pandas, Numpy, Seaborn, and Matplotlib.pyplot, and the model is based on logistic regression, deep learning, K-means, autoencoders, neural networks, and so on. Jupyter Notebook serves as a web-based interactive computing environment, and Python is utilized as a language.
             </h4>
             <p>
-              This is an eCommerce app where users can order products through an
-              online service. The users can filter the product based on the
-              available category of product, sort by highest and lowest price,
-              name of the product .{" "}
+            This represents the data analysis results for many departments, including Human Resources, Marketing, Sales, Operations, and Public Relations. The goal is to draw a valid conclusion based on the information gathered. For example, the sales department must plan for sales, and the public relations department must determine whether customers are satisfied with their service.{" "}
               <a
-                href="https://femi-frontend.netlify.app/"
+                href="https://github.com/FemiAdesola/Data-Science/blob/main/Human_Resources_Department.ipynb"
                 target="_blank"
                 rel="noopener noreferrer"
               >
@@ -58,7 +54,7 @@ const Projects = () => {
             </p>
 
             <a
-              href="https://github.com/FemiAdesola/frontend-project"
+              href="https://github.com/FemiAdesola/Data-Science"
               target="_blank"
               rel="noreferrer"
               className="github"
@@ -92,6 +88,40 @@ const Projects = () => {
 
             <a
               href="https://github.com/FemiAdesola/fullstack-"
+              target="_blank"
+              rel="noreferrer"
+              className="github"
+            >
+              Check <i className="fab fa-github fa-2x"></i>
+            </a>
+          </div>
+
+          <div className="card card19">
+            <img
+              src={require("../img_project/Product.png")}
+              alt="Product.png"
+            />
+            <h4>
+              {" "}
+              eCommerce (Built with MUI, TypeScript, Redux, React hook userform,
+              redux-persist)
+            </h4>
+            <p>
+              This is an eCommerce app where users can order products through an
+              online service. The users can filter the product based on the
+              available category of product, sort by highest and lowest price,
+              name of the product .{" "}
+              <a
+                href="https://femi-frontend.netlify.app/"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                Click to see more
+              </a>
+            </p>
+
+            <a
+              href="https://github.com/FemiAdesola/frontend-project"
               target="_blank"
               rel="noreferrer"
               className="github"
