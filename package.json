@@ -2,7 +2,7 @@
   "name": "portfolio_n",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://FemiAdesola.github.io/Femi-portfolio",
+  "homepage": "https://FemiAdesola.github.io/Femi-portfolio_v2",
   "dependencies": {
     "@emotion/react": "^11.10.5",
     "@emotion/styled": "^11.10.5",
