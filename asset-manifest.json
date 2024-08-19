@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/Femi-portfolio_v2/static/css/main.abaa9cdd.css",
+    "main.js": "/Femi-portfolio_v2/static/js/main.336ee2b0.js",
+    "static/media/Summer.png": "/Femi-portfolio_v2/static/media/Summer.3838c2e7caead54a4fbb.png",
+    "static/media/Kiva.png": "/Femi-portfolio_v2/static/media/Kiva.68729fe716eac89ea2a4.png",
+    "static/media/FoodApp.png": "/Femi-portfolio_v2/static/media/FoodApp.0b44ab736f18c8250698.png",
+    "static/media/KivaCountDown.png": "/Femi-portfolio_v2/static/media/KivaCountDown.679e21ea64c47bef262e.png",
+    "static/media/Portfolio1.png": "/Femi-portfolio_v2/static/media/Portfolio1.4251965f2a89549b5fd9.png",
+    "static/media/Game.png": "/Femi-portfolio_v2/static/media/Game.3b2eb3a4b2a4b2794b80.png",
+    "static/media/Data_Science.png": "/Femi-portfolio_v2/static/media/Data_Science.8a271b390ac7e4449aad.png",
+    "static/media/Hero.png": "/Femi-portfolio_v2/static/media/Hero.81eede2baa0f5d5afa43.png",
+    "static/media/Fullstack.png": "/Femi-portfolio_v2/static/media/Fullstack.615819a55ead222c8280.png",
+    "static/media/Product.png": "/Femi-portfolio_v2/static/media/Product.7a42140460eb7b6e64a9.png",
+    "static/media/UnitTest.png": "/Femi-portfolio_v2/static/media/UnitTest.aa5cd93cefbf264e06b0.png",
+    "static/media/NPS.png": "/Femi-portfolio_v2/static/media/NPS.1d3d46807a225f21bfcb.png",
+    "static/media/Database.png": "/Femi-portfolio_v2/static/media/Database.8a4600e95f72e803de79.png",
+    "static/media/Animal.png": "/Femi-portfolio_v2/static/media/Animal.7cf54f14c7a70291b05b.png",
+    "static/media/Countries.png": "/Femi-portfolio_v2/static/media/Countries.78085a749270e2eaffce.png",
+    "static/media/Form.png": "/Femi-portfolio_v2/static/media/Form.e991f37aa0b8d95f6f63.png",
+    "static/media/SnakeGame.png": "/Femi-portfolio_v2/static/media/SnakeGame.6c6426d6ecce58d59f0d.png",
+    "static/media/TodoApp.png": "/Femi-portfolio_v2/static/media/TodoApp.62f18b4f2948c02ffa0d.png",
+    "static/media/CV.pdf": "/Femi-portfolio_v2/static/media/CV.8fe568c155a4fa9377fc.pdf",
+    "static/media/BuyIt.png": "/Femi-portfolio_v2/static/media/BuyIt.0096e45fc0c429f1b3ca.png",
+    "static/media/ShoppingApp.png": "/Femi-portfolio_v2/static/media/ShoppingApp.e359b5000a776f342de4.png",
+    "static/media/BudgetApp.png": "/Femi-portfolio_v2/static/media/BudgetApp.dc7adbee7f4ba4a2ef38.png",
+    "static/media/Todo.png": "/Femi-portfolio_v2/static/media/Todo.f591741daac543422221.png",
+    "static/media/ProjectTool.png": "/Femi-portfolio_v2/static/media/ProjectTool.0004feae65969e30e436.png",
+    "static/media/IceCream.png": "/Femi-portfolio_v2/static/media/IceCream.ab58ee12370ee48ea110.png",
+    "static/media/ratInMaze.png": "/Femi-portfolio_v2/static/media/ratInMaze.c21d9df24ac277e1d337.png",
+    "static/media/about.png": "/Femi-portfolio_v2/static/media/about.a1115abeab0037477755.png",
+    "static/media/Moped.png": "/Femi-portfolio_v2/static/media/Moped.767f9ef74b54dc21fc2c.png",
+    "static/media/Currency.png": "/Femi-portfolio_v2/static/media/Currency.b90056d6c972d5f77e85.png",
+    "static/media/SignUp.png": "/Femi-portfolio_v2/static/media/SignUp.67fc1e8218456b003d96.png",
+    "index.html": "/Femi-portfolio_v2/index.html",
+    "main.abaa9cdd.css.map": "/Femi-portfolio_v2/static/css/main.abaa9cdd.css.map",
+    "main.336ee2b0.js.map": "/Femi-portfolio_v2/static/js/main.336ee2b0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abaa9cdd.css",
+    "static/js/main.336ee2b0.js"
+  ]
+}
