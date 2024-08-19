@@ -28,11 +28,10 @@
     border-radius: 5px;
 }
   
-.card:hover{
+/* .card:hover{
     background-color: var(--color-3);
     transform: scale(1.1);
-    cursor: pointer;
-}
+} */
   
 .card img{
     height: 300px;

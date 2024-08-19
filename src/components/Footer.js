@@ -58,7 +58,7 @@ const Footer = () => {
                 <Link  href="https://www.linkedin.com/in/femi-adesola-oyinloye-106454145/" target="_blank" rel="noreferrer" className="linkedin">
                   <i className="fab fa-linkedin fa-2x"></i>
                 </Link>
-                <Link  href="#1" className="facebook">
+                <Link  href="/" className="facebook">
                   <i className="fab fa-facebook fa-2x"></i>
                 </Link>
                 <Link  href="https://github.com/FemiAdesola" target="_blank" rel="noreferrer" className="github">

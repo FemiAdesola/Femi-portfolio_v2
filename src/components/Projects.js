@@ -224,7 +224,7 @@ const Projects = () => {
               Check <i className="fab fa-github fa-2x"></i>
             </a>
           </div>
-          <div class="card card1">
+          {/* <div class="card card1">
             <img
               src={require("../img_project/BTECH.png")}
               alt=" My Projects"
@@ -241,7 +241,7 @@ const Projects = () => {
                 See more
               </a>
             </p>
-          </div>
+          </div> */}
 
           <div class="card card2">
             <img
@@ -262,7 +262,7 @@ const Projects = () => {
             </p>
           </div>
 
-          <div className="card card3">
+          {/* <div className="card card3">
             <img
               src={require("../img_project/Fractionation.png")}
               alt=" My Projects"
@@ -279,7 +279,7 @@ const Projects = () => {
                 See more
               </a>
             </p>
-          </div>
+          </div> */}
           <div className="card card4">
             <img src={require("../img_project/Game.png")} alt="Game" />
             <h4> Speed game app built with ReactJS</h4>

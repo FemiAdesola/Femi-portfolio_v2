@@ -151,10 +151,10 @@
       
   }
   
-  .hero-banner h2 {
-    text-align: center;
+  .hero-banner h3 {
+    text-align:justify;
     max-width: 700px;
-    font-weight: 900;
+    font-weight: 500;
   }
   
 

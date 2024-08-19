@@ -7,13 +7,13 @@ const Skills = () => {
         <div className="container">
           <h3>Skills</h3>
           <div className="boxes">
-            <div class="box">
+            {/* <div class="box">
               <h4>Mechanical Designer</h4>
               <span>
                 {" "}
                 <i className="fas fa-cogs"></i>{" "}
               </span>
-              <progress id="file1" value="80" max="100"></progress>
+              <progress id="file1" value="80" max="100"></progress> 
             </div>
             <div class="box">
               <h4>Lab Technician</h4>
@@ -21,21 +21,21 @@ const Skills = () => {
                 {" "}
                 <i class="fas fa-microscope"></i>{" "}
               </span>
-              <progress id="file2" value="90" max="100"></progress>
-            </div>
+               <progress id="file2" value="90" max="100"></progress> 
+            </div> */}
             <div className="box box3">
               <h4>CSS</h4>
               <span>
                 <i className="fab fa-css3-alt"> CSS </i>
               </span>
-              <progress id="file3" value="80" max="100"></progress>
+              {/* <progress id="file3" value="80" max="100"></progress> */}
             </div>
             <div className="box box4">
               <h4>HTML5</h4>
               <span>
                 <i className="fab fa-html5"> HTML5 </i>
               </span>
-              <progress id="file4" value="80" max="100"></progress>
+              {/* <progress id="file4" value="80" max="100"></progress> */}
             </div>
             <div className="box box18">
               <h4>.Net</h4>
@@ -46,21 +46,21 @@ const Skills = () => {
                   alt="Net"
                 />
               </span>
-              <progress id="file5" value="45" max="100"></progress>
+              {/* <progress id="file5" value="45" max="100"></progress> */}
             </div>
             <div className="box box5">
               <h4>Javascript</h4>
               <span>
                 <i className="fab fa-js-square"> Javascript</i>
               </span>
-              <progress id="file5" value="65" max="100"></progress>
+              {/* <progress id="file5" value="65" max="100"></progress> */}
             </div>
             <div className="box box6">
               <h4>NodeJS</h4>
               <span>
                 <i className="fab fa-node"></i>
               </span>
-              <progress id="file6" value="70" max="100"></progress>
+              {/* <progress id="file6" value="70" max="100"></progress> */}
             </div>
             <a
               href="https://openbadgepassport.com/app/badge/info/406063"
@@ -72,7 +72,7 @@ const Skills = () => {
                 <span>
                   <i className="fab fa-git-alt"> Git</i>
                 </span>
-                <progress id="file7" value="70" max="100"></progress>
+                {/* <progress id="file7" value="70" max="100"></progress> */}
               </div>
             </a>
 
@@ -84,9 +84,9 @@ const Skills = () => {
                   <span className="react">REACT</span>
                 </i>
               </span>
-              <progress id="file8" value="60" max="100"></progress>
+              {/* <progress id="file8" value="60" max="100"></progress> */}
             </div>
-
+{/* 
             <div className="box box9">
               <h4>SolidWorks</h4>
               <span>
@@ -95,64 +95,64 @@ const Skills = () => {
                   alt="solidWorks"
                 />
               </span>
-              <progress id="file9" value="70" max="100"></progress>
-            </div>
+              {/* <progress id="file9" value="70" max="100"></progress> 
+            </div> */}
 
             <div className="box box10">
               <h4>Python</h4>
               <span>
                 <i className="fab fa-python"></i>
               </span>
-              <progress id="file10" value="30" max="100"></progress>
+              {/* <progress id="file10" value="30" max="100"></progress> */}
             </div>
             <div className="box box11">
               <h4>AWS</h4>
               <span>
                 <i className="fab fa-aws"></i>
               </span>
-              <progress id="file10" value="65" max="100"></progress>
+              {/* <progress id="file10" value="65" max="100"></progress> */}
             </div>
             <div className="box box12">
               <h4>Docker</h4>
               <span>
                 <i className="fab fa-docker"></i>
               </span>
-              <progress id="file10" value="65" max="100"></progress>
+              {/* <progress id="file10" value="65" max="100"></progress> */}
             </div>
             <div className="box box13">
               <h4>Database</h4>
               <span>
                 <i className="fas fa-database"></i>
               </span>
-              <progress id="file10" value="70" max="100"></progress>
+              {/* <progress id="file10" value="70" max="100"></progress> */}
             </div>
             <div className="box box14">
               <h4>Unit testing and Quality Assurance</h4>
               <span>
                 <i className="fas fa-check"></i>
               </span>
-              <progress id="file10" value="70" max="100"></progress>
+              {/* <progress id="file10" value="70" max="100"></progress> */}
             </div>
             <div className="box box15">
               <h4>CICD</h4>
               <span>
                 <i className="fas fa-cloud"></i>
               </span>
-              <progress id="file10" value="70" max="100"></progress>
+              {/* <progress id="file10" value="70" max="100"></progress> */}
             </div>
             <div className="box box16">
               <h4>Plotly</h4>
               <span>
                 <i class="fas fa-chart-line"></i>
               </span>
-              <progress id="file10" value="80" max="100"></progress>
+              {/* <progress id="file10" value="80" max="100"></progress> */}
             </div>
             <div className="box box17">
               <h4>Jenkins</h4>
               <span>
                 <i className="fab fa-jenkins"></i>
               </span>
-              <progress id="file10" value="60" max="100"></progress>
+              {/* <progress id="file10" value="60" max="100"></progress> */}
             </div>
 
             <div className="box box18">
@@ -163,7 +163,7 @@ const Skills = () => {
                   alt="Figma"
                 />
               </span>
-              <progress id="file9" value="80" max="100"></progress>
+              {/* <progress id="file9" value="80" max="100"></progress> */}
             </div>
             <div className="box box18">
               <h4>MongoDB</h4>
@@ -173,7 +173,7 @@ const Skills = () => {
                   alt="MongoDB"
                 />
               </span>
-              <progress id="file9" value="60" max="100"></progress>
+              {/* <progress id="file9" value="60" max="100"></progress> */}
             </div>
             <div className="box box18">
               <h4>MySQL</h4>
@@ -183,7 +183,7 @@ const Skills = () => {
                   alt="MySQL"
                 />
               </span>
-              <progress id="file9" value="60" max="100"></progress>
+              {/* <progress id="file9" value="60" max="100"></progress> */}
             </div>
             <div className="box box18">
               <h4>SCSS/SASS</h4>
@@ -193,7 +193,7 @@ const Skills = () => {
                   alt="SCSS/CSS"
                 />
               </span>
-              <progress id="file9" value="75" max="100"></progress>
+              {/* <progress id="file9" value="75" max="100"></progress> */}
             </div>
             <div className="box box18">
               <h4>TypeScript</h4>
@@ -203,7 +203,7 @@ const Skills = () => {
                   alt="TypeScript"
                 />
               </span>
-              <progress id="file9" value="45" max="100"></progress>
+              {/* <progress id="file9" value="45" max="100"></progress> */}
             </div>
             <div className="box box18">
               <h4>C#</h4>
@@ -213,7 +213,7 @@ const Skills = () => {
                   alt="C#"
                 />
               </span>
-              <progress id="file9" value="60" max="100"></progress>
+              {/* <progress id="file9" value="60" max="100"></progress> */}
             </div>
 
             <div className="box box18">
@@ -224,7 +224,7 @@ const Skills = () => {
                   alt="Postgres"
                 />
               </span>
-              <progress id="file9" value="60" max="100"></progress>
+              {/* <progress id="file9" value="60" max="100"></progress> */}
             </div>
             <div className="box box18">
               <h4>MUI</h4>
@@ -234,7 +234,7 @@ const Skills = () => {
                   alt="MUI"
                 />
               </span>
-              <progress id="file9" value="80" max="100"></progress>
+              {/* <progress id="file9" value="80" max="100"></progress> */}
             </div>
             <div className="box box18">
               <h4>Redux</h4>
@@ -244,7 +244,7 @@ const Skills = () => {
                   alt="Redux"
                 />
               </span>
-              <progress id="file9" value="60" max="100"></progress>
+              {/* <progress id="file9" value="60" max="100"></progress> */}
             </div>
             <div className="box box18">
               <h4>Azure</h4>
@@ -254,7 +254,29 @@ const Skills = () => {
                   alt="Azure"
                 />
               </span>
-              <progress id="file9" value="60" max="100"></progress>
+              {/* <progress id="file9" value="60" max="100"></progress> */}
+            </div>
+
+            <div className="box box18">
+              <h4>Tableau</h4>
+              <span>
+                <img
+                  src="https://img.shields.io/badge/tableau-%23097d93.svg?style=for-the-badge&logo=tableau&logoColor=redish"
+                  alt="Azure"
+                />
+              </span>
+              {/* <progress id="file9" value="60" max="100"></progress> */}
+            </div>
+
+            <div className="box box18">
+              <h4>Snowflake</h4>
+              <span>
+                <img
+                  src="https://img.shields.io/badge/snowflake-%230081CB.svg?style=for-the-badge&logo=snowflake&logoColor=white"
+                  alt="Azure"
+                />
+              </span>
+              {/* <progress id="file9" value="60" max="100"></progress> */}
             </div>
           </div>
         </div>

@@ -51,9 +51,9 @@ const Header = () => {
             </Container>
        </Navbar> 
         <div className="hero-banner">
-            <h2>
-                Welcome to explore a dedicated and result-oriented person who focuses on Mechanical Designer, software development, and Biobased processing.  
-            </h2>  
+            <h3>
+            My interest in coding began in 2020, and I have been committed to it ever since. I have taken part in various programs to enhance my skills and knowledge. These programs have provided me with numerous resources and learning opportunities, and I feel confident that I have acquired significant skills that will help me succeed in the industry
+            </h3>  
         </div>
 
     </div> );

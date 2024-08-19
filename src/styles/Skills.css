@@ -31,13 +31,12 @@ body .my_skills{
     border-radius: 5px;
 }
 
-.box:hover{
+/* .box:hover{
   background-color: var(--color-1);
   transform: scale(1.1);
   transition: 1s;
-  
+} */
 
-}
 .fas, .fab {
   margin: 25px;
   width: 100px;
